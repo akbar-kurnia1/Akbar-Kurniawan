@@ -19,6 +19,12 @@ const Home = () => {
               <a href="#projects" className="bg-slate-900 hover:bg-blue-600 text-white px-8 py-3 rounded-xl font-bold transition-all duration-300 hover:-translate-y-1 hover:shadow-xl flex items-center justify-center gap-2">
                 View My Work
               </a>
+              <a 
+                href="https://drive.google.com/file/d/1y4dS7P-4ltG1ziSFe8tSVEBAOAsotlbW/view?usp=sharing" 
+                target= "_blank" rel="noopener noreferrer" className="bg-slate-900 hover:bg-blue-600 text-white px-8 py-3 rounded-xl font-bold transition-all duration-300 hover:-translate-y-1 hover:shadow-xl flex items-center justify-center gap-2"
+              >
+                Download CV
+              </a>
             </div>
           </RevealOnScroll>
         </div>
