@@ -31,6 +31,30 @@ const Projects = () => {
         description: "Implementasi berbasis web dari Conway’s Game of Life, sebuah cellular automaton terkenal yang diciptakan oleh matematikawan John Conway. Proyek ini menunjukkan bagaimana aturan-aturan sederhana dapat menghasilkan perilaku yang kompleks dan bersifat emergen, serta diimplementasikan menggunakan teknologi web untuk memungkinkan visualisasi interaktif secara langsung di browser.",
         image: imgGameOfLife,
         tags: ["Front-end", "Website", "Algorithm"]
+      },
+      {
+        title: "Will you be my girlfriend?",
+        description: "Website yang terinspirasi dari reels (video pendek) yang saya temukan di sosial media. udah, ntar ini saya hapus soalnya malu, awokawok.",
+        image: imgWBMGF,
+        tags: ["Front-end", "Website", "Hobbies"]
+      },
+      {
+        title: "To-Do List",
+        description: "Website berbasis software To-do list sederhana yang dikembangkan sebagai mini-project untuk menyelesaikan kursus RevoU Coding Camp: Intro to Software Engineering. Dikembangkan dengan HTML, CSS, dan Javascript, serta didukung penyimpanan data menggunakan memori browser pengguna sehingga data tidak akan hilang jika keluar dari website.",
+        image: imgTodolist,
+        tags: ["Front-end", "Website", "Course Project"]
+      },
+      {
+        title: "Wishlist",
+        description: "Aplikasi ini dibuat untuk memenuhi Studi Kasus II pada Front-End Development Assignment GDGOC UNSRI. Aplikasi ini sudah mendukung fitur CRUD (Create, Read, Update, Delete) dan penyimpanan data lokal.",
+        image: imgWishlist,
+        tags: ["Front-end", "Website", "Commissioned Project"]
+      },
+      {
+        title: "Desain Jaket Asisten Laboratorium Jurusan Fisika UNSRI",
+        description: "Desain jaket Korps Asisten Laboratorium Elektronika dan Laboratorium Komputasi Fisika, Jurusan Fisika FMIPA, Universitas Sriwijaya. Jaket didesain menggunakan software CorelDRAW 2020 dengan komposisi warna utama CMYK sesuai dengan standar percetakan dan konveksi.",
+        image: imgJaket,
+        tags: ["Design", "Hobbies", "Commissioned Project"]
       }
     ];
   
